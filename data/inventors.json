@@ -48,6 +48,13 @@
    "last": "Planck",
    "year": 1858,
    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Bundesarchiv_Bild_183-R0116-504%2C_Max_Planck.jpg/220px-Bundesarchiv_Bild_183-R0116-504%2C_Max_Planck.jpg"
+  },
+  {
+   "_id": 10,
+   "first": "Steve.",
+   "last": "Jobs",
+   "year": 1867,
+   "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Marie_Curie%2C_portrait%2C_1900.jpg/220px-Marie_Curie%2C_portrait%2C_1900.jpg"
   }
  ]
 }
